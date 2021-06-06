@@ -9,3 +9,6 @@ Blue
 Green
 Yellow
 Red
+Violet
+
+Whatever happened to Roy G Biv?
